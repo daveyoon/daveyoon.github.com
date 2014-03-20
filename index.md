@@ -6,7 +6,7 @@ title: David Yoon
 
 Hello. 
 
-I'm currently a partner at Idealistech Labs, a consultancy based in San Francisco. 
+I'm a managing partner at ylab.co working on a suite of tools to make it easier for organizations to measure their impact. I'm also the director of engineering at FWD.us
 
 Previously, I served as the Director of Engineering at [Samasource](http://www.samasource.org) where I built the SamaHub and the engineering team. I learned a lot about crowdsourcing and a bit about impact sourcing, labor economics, and development economics.
 
