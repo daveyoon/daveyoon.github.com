@@ -12,7 +12,7 @@ Previously, I served as the Director of Engineering at [Samasource](http://www.s
 
 Prior to that, I was a technical lead at [Alexander Interactive](http://www.alexanderinteractive.com), where I lead cross-functional teams building quality projects. I learned a lot about e-commerce, scaling web applications, best development practices, and how to run projects efficiently. 
 
-My work has resulted in over [$200 million being transferred to teachers](http://www.donorschoose.org), [5000 people earning their way out of poverty](www.samasource.org), [millions of high school kids passing their english classes](www.sparknotes.com)
+My work has resulted in over [$200 million being transferred to teachers](http://www.donorschoose.org), [5000 people earning their way out of poverty](www.samasource.org), and [millions of high school kids passing their english classes](www.sparknotes.com)
 
 I have advised projects at the World Bank and Columbia University. My work has been featured in an HBS case study and I have presented at Google, Berkeley, IBM Almaden Research Center, the World Bank, and the Monterrey Institute for International Studies.
 
