@@ -6,13 +6,11 @@ title: David Yoon
 
 Hello. 
 
-I'm a managing partner at [ylab.co](http://ylab.co) working on a suite of tools to make it easier for organizations to measure their impact. I'm also the director of engineering at [FWD.us](http://fwd.us)
+I'm the director of engineering at [FWD.us](http://fwd.us) and the managing partner at [ylab](http://ylab.co).
 
 Previously, I served as the Director of Engineering at [Samasource](http://www.samasource.org) where I built the SamaHub and the engineering team. I learned a lot about crowdsourcing and a bit about impact sourcing, labor economics, and development economics.
 
 Prior to that, I was a technical lead at [Alexander Interactive](http://www.alexanderinteractive.com), where I lead cross-functional teams building quality projects. I learned a lot about e-commerce, scaling web applications, best development practices, and how to run projects efficiently. 
-
-My work has resulted in over [$200 million being transferred to teachers](http://www.donorschoose.org), [5000 people earning their way out of poverty](http://www.samasource.org), and [millions of high school kids passing their english classes](http://www.sparknotes.com)
 
 I have advised projects at the World Bank and Columbia University. My work has been featured in an HBS case study and IEEE. I have presented at Google, Berkeley, IBM Almaden Research Center, the World Bank, and the Monterrey Institute for International Studies.
 
