@@ -4,18 +4,20 @@ title: David Yoon
 ---
 
 
-Hello. 
+I'm an engineer, leader, and investor. I typically work at the intersection of technology and complicated domains (healthcare, politics, economic development).
 
-I'm the director of engineering at [FWD.us](http://fwd.us) and the managing partner at [ylab](http://ylab.co).
+Currently I'm investing/advising companies via [ylab](http://ylab.co). If you're working on Ai, Healthcare, or Future of Work, please get in touch. I operate between Amsterdam and San Francisco.
 
-Previously, I served as the Director of Engineering at [Samasource](http://www.samasource.org) where I built the SamaHub and the engineering team. I learned a lot about crowdsourcing and a bit about impact sourcing, labor economics, and development economics.
+I've been working in healthcare for the past 4 years, first in Nairobi as the head of engineering at Antara Health. Then as the engineering lead for projectN95, and as an early core team member at USDR. I was also an an engineering director at Cityblock Health. 
 
-Prior to that, I was a technical lead at [Alexander Interactive](http://www.alexanderinteractive.com), where I lead cross-functional teams building quality projects. I learned a lot about e-commerce, scaling web applications, best development practices, and how to run projects efficiently. 
+Previously I worked in politics at FWD.us, where I led the engineering team and worked on immigration reform. I serve on the faculty of UC Berkeley teaching a course at the intersection of politics and technology. 
 
-I have advised projects at the World Bank and Columbia University. My work has been featured in an HBS case study and IEEE. I have presented at Google, Berkeley, IBM Almaden Research Center, the World Bank, and the Monterrey Institute for International Studies.
+My first company in SF was sama.com where I was an early engineering leader. I spent time in Nairobi, wrote some early checks in companies and learned a lot about labor economics, development economics, crowdsourcing and RLHF. 
 
-I've lived and worked in New York, San Francisco, Rio de Janeiro, Nairobi, and Copenhagen. 
+I started my internet career in New York, where I was an early engineer at Sparknotes.com and an early employee at Cake and Arrow. My first job was in robotics and computer vision in Copenhagen. I studied Computer Engineering at McGill.
 
-I spend a lot of time thinking about how technology can be used to solve problems in education, healthcare, and economic development. When I get the chance, I spend time climbing, traveling, and listening/making music.
+I've lived and worked in Amsterdam, Berlin, San Francisco, New York, Rio de Janeiro, Nairobi, and Copenhagen. 
+
+I spend a lot of time thinking about how technology can be useful and love learning. My core drivers are people, growth, and purpose. 
 
 
