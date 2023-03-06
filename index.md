@@ -20,4 +20,6 @@ I've lived and worked in Amsterdam, Berlin, San Francisco, New York, Rio de Jane
 
 I spend a lot of time thinking about how technology can be useful and love learning.
 
+Life is an adventure, go for it.
+
 
