@@ -4,7 +4,7 @@ title: David Yoon
 ---
 
 
-I'm an engineering executive and like to build products/companies with world class teams solving practical problems. I build/advise/invest in companies via [ylab](http://ylab.co) and am exploring new ideas via [SPC](https://www.southparkcommons.com/). I like working at the intersection of technology, academia, and government.
+I'm an engineering executive and like to build products/companies with world class teams solving practical problems. I build/advise/invest in companies via [ylab](mailto:hello@ylab.co) and am exploring new ideas via [SPC](https://www.southparkcommons.com/). I like working at the intersection of technology, academia, and government.
 
 I was an early engineering leader at [Samasource](https://sama.com) (recruited by Charlie Cheever) and built the first version of the Samahub platform. I helped the company grow from 5-200 across 3 continents and helped open the Kenya office. I was active in the early Nairobi tech eco-system and helped launch the local [Ruby](https://github.com/nairuby) group. I advise companies/orgs in east africa and am part of the CTO network (please reach out if I can help).
 
