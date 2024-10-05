@@ -4,7 +4,7 @@ title: David Yoon
 ---
 
 
-I'm an engineering executive and like to build products/companies with world class teams solving meaningful problems. I advise/invest in companies via [ylab](mailto:hello@ylab.co) and am exploring a new idea via [SPC](https://www.southparkcommons.com/). I like working at the intersection of technology, academia, and government.
+I'm a technical founder and like to build products/companies with great teams working on meaningful problems. I advise/invest in companies via [ylab](mailto:hello@ylab.co) and am exploring a new idea via [SPC](https://www.southparkcommons.com/). I like working at the intersection of technology, academia, and government.
 
 I was the CTO at [Samasource](https://sama.com) (recruited by Charlie Cheever) and built one of the early data labeling companies. We helped build key datasets for Uber, Google, OpenAI and grew fairly rapidly. I helped open the office in Nairobi and became active in the tech eco-system there. I'm a member of the local CTO community and helped start the local [Ruby](https://github.com/nairuby) group and like working with companies/organizations in that region.
 
