@@ -1,18 +1,28 @@
 ---
 layout: default
 title: David Yoon
+description: Engineering leader who builds and deploys technology with health systems, governments and nonprofits. Founding engineer and CTO at Samasource; now building and evaluating AI for public institutions at Ylab.
 ---
 
+I'm an engineering leader. For twenty years I've built teams and software that ship into hard places: health systems, governments, nonprofits and the field operations around them. These days I'm back to building with AI hands-on, and I'm looking for my next engineering leadership role.
 
-I'm a technical founder and like to build products/companies with great teams working on meaningful problems. I advise/invest in companies via [ylab](mailto:hello@ylab.co) and am exploring a new idea via [SPC](https://www.southparkcommons.com/). I like working at the intersection of technology, academia, and government.
+### Now
 
-I was the CTO at [Samasource](https://sama.com) (recruited by Charlie Cheever). I helped open the office in Nairobi and became active in the tech eco-system there. I'm a member of the local CTO community and helped start the local [Ruby](https://github.com/nairuby) group and like working with companies/organizations in that region.
+- **[Ylab](https://ylab.co):** helping public institutions deploy and evaluate AI. The first project is an open [evaluation of frontier models on community health-worker tasks in Kenya](https://github.com/daveyoon/health-worker-evals): hypertension and diabetes cases built from Ministry of Health guidelines, in English and Swahili.
+- **UNDP:** advising UNDP and the African Development Bank on where AI can strengthen development programs and public services across Africa.
+- **Angel investing:** venture partner at Purpose Built and Skytrain.
 
-I worked on a bi-partisan immigration reform group with Mark Zuckerberg at [FWD.us](https://www.theguardian.com/world/2013/apr/11/mark-zuckerberg-launches-immigration-group) where I became the head of engineering. We launched advocacy/political tools to varying degrees of success. I got the chance to meet/learn from some of the best operators across both parties. Through that experience I got to serve on the faculty of UC Berkeley Haas where I lectured two courses at the intersection of [technology and civics](https://haas.berkeley.edu/wp-content/uploads/Syllabus-UGBA39E-Civic-Technology.pdf). I was an early core team member at [USDR](https://www.usdigitalresponse.org/), partnering with [Robin Carnahan](https://en.wikipedia.org/wiki/Robin_Carnahan) to support counties/local governments in the early days of Covid and helped build their [election worker](https://www.usdigitalresponse.org/case-studies/automating-harris-countys-student-election-clerk-program) management tool. I also helped launch [projectN95](https://www.newyorker.com/news/letter-from-trumps-washington/the-coronavirus-and-how-the-united-states-ended-up-with-nurses-wearing-garbage-bags).
+### Before
 
-Recently, I've been working in healthcare, first as the head of engineering at [Antara Health](https://www.notboring.co/p/antara-health-natively-integrated). Then as an engineering director at [Cityblock Health](https://www.cityblock.com/). 
+- **[Cityblock Health](https://www.cityblock.com/)**, Director of Engineering. Owned engineering strategy, staffing and delivery for member-facing systems serving Medicaid populations.
+- **[U.S. Digital Response](https://www.usdigitalresponse.org/)**, founding core team. Embedded with St. Louis County during COVID-19, led engineering and product for [Project N95](https://www.newyorker.com/news/letter-from-trumps-washington/the-coronavirus-and-how-the-united-states-ended-up-with-nurses-wearing-garbage-bags), a national PPE clearinghouse with ~40 engineers, 3,700+ suppliers and 6,000 requests, and was technical lead on a [poll-worker management system](https://www.usdigitalresponse.org/case-studies/automating-harris-countys-student-election-clerk-program) used across election jurisdictions.
+- **[Antara Health](https://www.notboring.co/p/antara-health-natively-integrated)**, Head of Engineering, Nairobi. Rebuilt the EMR that frontline health workers use for hypertension and diabetes care, and made the team ship 5x faster.
+- **[FWD.us](https://www.theguardian.com/world/2013/apr/11/mark-zuckerberg-launches-immigration-group)**, Head of Engineering. Led 10 engineers and 50+ volunteer technologists building advocacy tools for the immigration-reform group founded by Mark Zuckerberg and Reid Hoffman.
+- **[Samasource](https://sama.com)**, founding engineer and CTO. Built one of the earliest human-in-the-loop data annotation platforms for machine learning, grew engineering to 15 as the company scaled from 5 to 500, and helped open the Nairobi office.
+- Earlier: early engineer at [SparkNotes](https://www.sparknotes.com) (scaled to ~10M users) and engineering director at [Cake & Arrow](https://cakeandarrow.com/) in New York; computer-vision engineer in Copenhagen; computer engineering at McGill.
 
-I started my career in New York, where I was an early engineer at [Sparknotes](http://sparknotes.com) and [Cake and Arrow](https://cakeandarrow.com/). I studied computer engineering/computer vision at McGill University.
+### Also
 
-Based between Amsterdam and San Francisco.
+I taught [Civic Technology](https://haas.berkeley.edu/wp-content/uploads/Syllabus-UGBA39E-Civic-Technology.pdf) and Social Movements and Social Media at UC Berkeley Haas (2017–2021). I sit on the advisory board of the Foundation for Learning Equality, helped start the [Nairobi Ruby community](https://github.com/nairuby), and was a member of South Park Commons in 2023. I've been climbing for twenty years.
 
+Based between Utrecht and San Francisco. Reach me at [dave.yoon@gmail.com](mailto:dave.yoon@gmail.com).
